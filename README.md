@@ -1,1 +1,2 @@
 # nayan-demo
+int main ()[
